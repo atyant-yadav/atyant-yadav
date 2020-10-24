@@ -1,7 +1,8 @@
 # Welcome, folks! <img src="https://github.com/atyant-yadav/atyant-yadav/blob/main/wave.gif" width="30px">
 
 My name is [Atyant Yadav](https://drive.google.com/file/d/1hGzGIJMl1baiPZ8DsCM6_QqPCaheI37y/view?usp=sharing) and I'm a senior at Indian Institute of Technology, Mandi. I'm from Jaipur, living in Mandi. </br>
-You can find me on ![LinkedIn][3.2].
+You can find me on [![LinkedIn][3.2]][3]. </br>
+Find my Youtube series on DSA [![Youtube]][1].</br>
 
 ## &#x270d; Projects and Creations
 
@@ -11,7 +12,6 @@ You can find live demo of some of my Projects at :-</br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -19,10 +19,6 @@ You can find live demo of some of my Projects at :-</br>
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -54,11 +50,12 @@ You can find live demo of some of my Projects at :-</br>
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://github.com/atyant-yadav/atyant-yadav/blob/main/linkedin.png (LinkedIn icon without padding)
+[4.2]: https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png (Youtube icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: #
+[1]: https://www.youtube.com/watch?v=eOeZcJN0HKc&list=PLn-qXrulR2Pb22zPAeB5VjzQfPS78JyTi/
 [2]: https://github.com/atyant-yadav/
 [3]: https://www.linkedin.com/in/atyant-yadav/
 
