@@ -1,6 +1,6 @@
 # Welcome, folks! <img src="https://github.com/atyant-yadav/atyant-yadav/blob/main/wave.gif" width="30px">
 
-My name is [Atyant Yadav](https://drive.google.com/file/d/1hGzGIJMl1baiPZ8DsCM6_QqPCaheI37y/view?usp=sharing) and I'm a senior at Indian Institute of Technology, Mandi. I'm from Jaipur, living in Mandi. </br>
+My name is [Atyant Yadav](https://drive.google.com/file/d/1hGzGIJMl1baiPZ8DsCM6_QqPCaheI37y/view?usp=sharing) and I'm a Software Developer at Internet Business Japan, did my bachelors in Computer Science and Engineering from Indian Institute of Technology, Mandi. </br>
 You can find me on [![LinkedIn][3.2]][3]. </br>
 Find my Youtube series on DSA [![Youtube]][1].</br>
 
