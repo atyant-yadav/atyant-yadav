@@ -25,14 +25,11 @@ You can find live demo of some of my Projects at :-</br>
 <a href="https://github.com/atyant-yadav/atyant-yadav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atyant-yadav&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/atyant-yadav/atyant-yadav">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atyant-yadav&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+<br><br>
 
 <a href="https://github.com/atyant-yadav/Hacktoberfest2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atyant-yadav&repo=Hacktoberfest2020&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/atyant-yadav/BMI-Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atyant-yadav&repo=BMI-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
